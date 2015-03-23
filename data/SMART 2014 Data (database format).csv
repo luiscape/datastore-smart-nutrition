@@ -1,0 +1,1072 @@
+region,numero_district,district,variable_short_code,variable,value
+Kayes,1,Kayes,V01,Population 2015 variante mediane,628587.0127
+Kayes,2,Bafoulabe,V01,Population 2015 variante mediane,157625
+Kayes,8,Oussoubigiana,V01,Population 2015 variante mediane,128806
+Kayes,3, Diema,V01,Population 2015 variante mediane,259659.6925
+Kayes,4, Kenieba,V01,Population 2015 variante mediane,237730.9857
+Kayes,5, Kita,V01,Population 2015 variante mediane,531876.1381
+Kayes,6,Nioro,V01,Population 2015 variante mediane,282221.441
+Kayes,7,Yelimane,V01,Population 2015 variante mediane,218493.6238
+ Koulikoro,1, Koulikoro,V01,Population 2015 variante mediane,259349.8392
+ Koulikoro,2, Banamba,V01,Population 2015 variante mediane,233712.5321
+ Koulikoro,3,Diola,V01,Population 2015 variante mediane,325876.1204
+ Koulikoro,4,Kalabancoro,V01,Population 2015 variante mediane,310183.1136
+ Koulikoro,5, kangaba,V01,Population 2015 variante mediane,123739.1975
+ Koulikoro,6, Kati,V01,Population 2015 variante mediane,610024.1173
+ Koulikoro,7,Kolokani,V01,Population 2015 variante mediane,287380.3548
+ Koulikoro,8,Nara,V01,Population 2015 variante mediane,298524.4996
+ Koulikoro,9,Fana ,V01,Population 2015 variante mediane,277598.1767
+ Koulikoro,10,Oullessebou,V01,Population 2015 variante mediane,244612.0487
+Sikasso ,1,Sikasso           ,V01,Population 2015 variante mediane,599192.8609
+Sikasso ,2,Bougouni,V01,Population 2015 variante mediane,567316.8814
+Sikasso ,3,Kadiolo,V01,Population 2015 variante mediane,295953.358
+Sikasso ,4,Kolondieba,V01,Population 2015 variante mediane,250155.3003
+Sikasso ,5,Koutiala,V01,Population 2015 variante mediane,710216.2047
+Sikasso ,10,Niena,V01,Population 2015 variante mediane,153200.2252
+Sikasso ,6,Yanfolila,V01,Population 2015 variante mediane,159527.9134
+Sikasso ,7,Yorosso,V01,Population 2015 variante mediane,261131.0311
+Sikasso ,8,Selingue,V01,Population 2015 variante mediane,101993.2561
+Sikasso ,9,Kignan,V01,Population 2015 variante mediane,143312.9688
+Ségou,1,Ségou,V01,Population 2015 variante mediane,543177.6224
+Ségou,2,Barouéli,V01,Population 2015 variante mediane,249879.1442
+Ségou,3,Bla,V01,Population 2015 variante mediane,348226.3212
+Ségou,4,Macina,V01,Population 2015 variante mediane,291528.1234
+Ségou,5,Niono,V01,Population 2015 variante mediane,448619.9169
+Ségou,6,San,V01,Population 2015 variante mediane,411138.6591
+Ségou,7,Tominian,V01,Population 2015 variante mediane,269892.8002
+Ségou,8,Markala,V01,Population 2015 variante mediane,305537.4126
+Mopti,1,Bandiagara,V01,Population 2015 variante mediane,389705.4503
+Mopti,2,Bankass,V01,Population 2015 variante mediane,322885.67
+Mopti,3,Djenné,V01,Population 2015 variante mediane,254022.7749
+Mopti,4,Douentza,V01,Population 2015 variante mediane,303702.2073
+Mopti,5,Koro,V01,Population 2015 variante mediane,443607.1564
+Mopti,6,Mopti,V01,Population 2015 variante mediane,451657.0531
+Mopti,7,Ténenkou,V01,Population 2015 variante mediane,200562.2933
+Mopti,8,Youwarou,V01,Population 2015 variante mediane,130857.3947
+Tombouctou,1,Tombouctou,V01,Population 2015 variante mediane,151276.8806
+Tombouctou,2,Diré,V01,Population 2015 variante mediane,135217.0881
+Tombouctou,3,Goundam,V01,Population 2015 variante mediane,182376.1792
+Tombouctou,4,Gourma Rharous,V01,Population 2015 variante mediane,135292.3949
+Tombouctou,5,Niafunké,V01,Population 2015 variante mediane,223837.4571
+Gao,1,Gao,V01,Population 2015 variante mediane,293137.9935
+Gao,2,Ansongo,V01,Population 2015 variante mediane,161575.2499
+Gao,3,Bourem,V01,Population 2015 variante mediane,141718.8672
+Gao,4,Menaka,V01,Population 2015 variante mediane,68567.88944
+Kidal,1,Abeibara,V01,Population 2015 variante mediane,12622.16506
+Kidal,2,Kidal,V01,Population 2015 variante mediane,40601.74754
+Kidal,3,Tessalit,V01,Population 2015 variante mediane,19988.57151
+Kidal,4,Tin - Essako,V01,Population 2015 variante mediane,9787.515893
+Bamako,1, COMMUNE I                       ,V01,Population 2015 variante mediane,411586.4631
+Bamako,2, COMMUNE II                      ,V01,Population 2015 variante mediane,196100.7813
+Bamako,3, COMMUNE III                     ,V01,Population 2015 variante mediane,158142.11
+Bamako,4, COMMUNE IV                      ,V01,Population 2015 variante mediane,368241.9383
+Bamako,5, COMMUNE V                       ,V01,Population 2015 variante mediane,508849.6528
+Bamako,6, COMMUNE VI                      ,V01,Population 2015 variante mediane,577079.0545
+Kayes,1,Kayes,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,2,Bafoulabe,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,8,Oussoubigiana,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,3, Diema,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,4, Kenieba,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,5, Kita,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,6,Nioro,V02,% d'enfants de 6 à 59 mois,0.207
+Kayes,7,Yelimane,V02,% d'enfants de 6 à 59 mois,0.207
+ Koulikoro,1, Koulikoro,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,2, Banamba,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,3,Diola,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,4,Kalabancoro,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,5, kangaba,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,6, Kati,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,7,Kolokani,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,8,Nara,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,9,Fana ,V02,% d'enfants de 6 à 59 mois,0.197
+ Koulikoro,10,Oullessebou,V02,% d'enfants de 6 à 59 mois,0.197
+Sikasso ,1,Sikasso           ,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,2,Bougouni,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,3,Kadiolo,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,4,Kolondieba,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,5,Koutiala,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,10,Niena,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,6,Yanfolila,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,7,Yorosso,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,8,Selingue,V02,% d'enfants de 6 à 59 mois,0.207
+Sikasso ,9,Kignan,V02,% d'enfants de 6 à 59 mois,0.207
+Ségou,1,Ségou,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,2,Barouéli,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,3,Bla,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,4,Macina,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,5,Niono,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,6,San,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,7,Tominian,V02,% d'enfants de 6 à 59 mois,0.198966151
+Ségou,8,Markala,V02,% d'enfants de 6 à 59 mois,0.198966151
+Mopti,1,Bandiagara,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,2,Bankass,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,3,Djenné,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,4,Douentza,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,5,Koro,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,6,Mopti,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,7,Ténenkou,V02,% d'enfants de 6 à 59 mois,0.195428907
+Mopti,8,Youwarou,V02,% d'enfants de 6 à 59 mois,0.195428907
+Tombouctou,1,Tombouctou,V02,% d'enfants de 6 à 59 mois,0.196320205
+Tombouctou,2,Diré,V02,% d'enfants de 6 à 59 mois,0.196320205
+Tombouctou,3,Goundam,V02,% d'enfants de 6 à 59 mois,0.196320205
+Tombouctou,4,Gourma Rharous,V02,% d'enfants de 6 à 59 mois,0.196320205
+Tombouctou,5,Niafunké,V02,% d'enfants de 6 à 59 mois,0.196320205
+Gao,1,Gao,V02,% d'enfants de 6 à 59 mois,0.198513011
+Gao,2,Ansongo,V02,% d'enfants de 6 à 59 mois,0.198513011
+Gao,3,Bourem,V02,% d'enfants de 6 à 59 mois,0.198513011
+Gao,4,Menaka,V02,% d'enfants de 6 à 59 mois,0.198513011
+Kidal,1,Abeibara,V02,% d'enfants de 6 à 59 mois,0.18038796
+Kidal,2,Kidal,V02,% d'enfants de 6 à 59 mois,0.18038796
+Kidal,3,Tessalit,V02,% d'enfants de 6 à 59 mois,0.18038796
+Kidal,4,Tin - Essako,V02,% d'enfants de 6 à 59 mois,0.18038796
+Bamako,1, COMMUNE I                       ,V02,% d'enfants de 6 à 59 mois,0.156
+Bamako,2, COMMUNE II                      ,V02,% d'enfants de 6 à 59 mois,0.156
+Bamako,3, COMMUNE III                     ,V02,% d'enfants de 6 à 59 mois,0.156
+Bamako,4, COMMUNE IV                      ,V02,% d'enfants de 6 à 59 mois,0.156
+Bamako,5, COMMUNE V                       ,V02,% d'enfants de 6 à 59 mois,0.156
+Bamako,6, COMMUNE VI                      ,V02,% d'enfants de 6 à 59 mois,0.156
+Kayes,1,Kayes,V03,Enfants de 6 à 59 mois,130118
+Kayes,2,Bafoulabe,V03,Enfants de 6 à 59 mois,32628
+Kayes,8,Oussoubigiana,V03,Enfants de 6 à 59 mois,26663
+Kayes,3, Diema,V03,Enfants de 6 à 59 mois,53750
+Kayes,4, Kenieba,V03,Enfants de 6 à 59 mois,49210
+Kayes,5, Kita,V03,Enfants de 6 à 59 mois,110098
+Kayes,6,Nioro,V03,Enfants de 6 à 59 mois,58420
+Kayes,7,Yelimane,V03,Enfants de 6 à 59 mois,45228
+ Koulikoro,1, Koulikoro,V03,Enfants de 6 à 59 mois,51092
+ Koulikoro,2, Banamba,V03,Enfants de 6 à 59 mois,46041
+ Koulikoro,3,Diola,V03,Enfants de 6 à 59 mois,64198
+ Koulikoro,4,Kalabancoro,V03,Enfants de 6 à 59 mois,61106
+ Koulikoro,5, kangaba,V03,Enfants de 6 à 59 mois,24377
+ Koulikoro,6, Kati,V03,Enfants de 6 à 59 mois,120175
+ Koulikoro,7,Kolokani,V03,Enfants de 6 à 59 mois,56614
+ Koulikoro,8,Nara,V03,Enfants de 6 à 59 mois,58809
+ Koulikoro,9,Fana ,V03,Enfants de 6 à 59 mois,54687
+ Koulikoro,10,Oullessebou,V03,Enfants de 6 à 59 mois,48189
+Sikasso ,1,Sikasso           ,V03,Enfants de 6 à 59 mois,124033
+Sikasso ,2,Bougouni,V03,Enfants de 6 à 59 mois,117435
+Sikasso ,3,Kadiolo,V03,Enfants de 6 à 59 mois,61262
+Sikasso ,4,Kolondieba,V03,Enfants de 6 à 59 mois,51782
+Sikasso ,5,Koutiala,V03,Enfants de 6 à 59 mois,147015
+Sikasso ,10,Niena,V03,Enfants de 6 à 59 mois,31712
+Sikasso ,6,Yanfolila,V03,Enfants de 6 à 59 mois,33022
+Sikasso ,7,Yorosso,V03,Enfants de 6 à 59 mois,54054
+Sikasso ,8,Selingue,V03,Enfants de 6 à 59 mois,21113
+Sikasso ,9,Kignan,V03,Enfants de 6 à 59 mois,29666
+Ségou,1,Ségou,V03,Enfants de 6 à 59 mois,108074
+Ségou,2,Barouéli,V03,Enfants de 6 à 59 mois,49717
+Ségou,3,Bla,V03,Enfants de 6 à 59 mois,69285
+Ségou,4,Macina,V03,Enfants de 6 à 59 mois,58004
+Ségou,5,Niono,V03,Enfants de 6 à 59 mois,89260
+Ségou,6,San,V03,Enfants de 6 à 59 mois,81803
+Ségou,7,Tominian,V03,Enfants de 6 à 59 mois,53700
+Ségou,8,Markala,V03,Enfants de 6 à 59 mois,60792
+Mopti,1,Bandiagara,V03,Enfants de 6 à 59 mois,76160
+Mopti,2,Bankass,V03,Enfants de 6 à 59 mois,63101
+Mopti,3,Djenné,V03,Enfants de 6 à 59 mois,49643
+Mopti,4,Douentza,V03,Enfants de 6 à 59 mois,59352
+Mopti,5,Koro,V03,Enfants de 6 à 59 mois,86694
+Mopti,6,Mopti,V03,Enfants de 6 à 59 mois,88267
+Mopti,7,Ténenkou,V03,Enfants de 6 à 59 mois,39196
+Mopti,8,Youwarou,V03,Enfants de 6 à 59 mois,25573
+Tombouctou,1,Tombouctou,V03,Enfants de 6 à 59 mois,29699
+Tombouctou,2,Diré,V03,Enfants de 6 à 59 mois,26546
+Tombouctou,3,Goundam,V03,Enfants de 6 à 59 mois,35804
+Tombouctou,4,Gourma Rharous,V03,Enfants de 6 à 59 mois,26561
+Tombouctou,5,Niafunké,V03,Enfants de 6 à 59 mois,43944
+Gao,1,Gao,V03,Enfants de 6 à 59 mois,58192
+Gao,2,Ansongo,V03,Enfants de 6 à 59 mois,32075
+Gao,3,Bourem,V03,Enfants de 6 à 59 mois,28133
+Gao,4,Menaka,V03,Enfants de 6 à 59 mois,13612
+Kidal,1,Abeibara,V03,Enfants de 6 à 59 mois,2277
+Kidal,2,Kidal,V03,Enfants de 6 à 59 mois,7324
+Kidal,3,Tessalit,V03,Enfants de 6 à 59 mois,3606
+Kidal,4,Tin - Essako,V03,Enfants de 6 à 59 mois,1766
+Bamako,1, COMMUNE I                       ,V03,Enfants de 6 à 59 mois,64207
+Bamako,2, COMMUNE II                      ,V03,Enfants de 6 à 59 mois,30592
+Bamako,3, COMMUNE III                     ,V03,Enfants de 6 à 59 mois,24670
+Bamako,4, COMMUNE IV                      ,V03,Enfants de 6 à 59 mois,57446
+Bamako,5, COMMUNE V                       ,V03,Enfants de 6 à 59 mois,79381
+Bamako,6, COMMUNE VI                      ,V03,Enfants de 6 à 59 mois,90024
+Kayes,1,Kayes,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.3
+Kayes,2,Bafoulabe,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),5.6
+Kayes,8,Oussoubigiana,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.3
+Kayes,3, Diema,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),12.2
+Kayes,4, Kenieba,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.3
+Kayes,5, Kita,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.3
+Kayes,6,Nioro,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.3
+Kayes,7,Yelimane,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),15.7
+ Koulikoro,1, Koulikoro,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,2, Banamba,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,3,Diola,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,4,Kalabancoro,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,5, kangaba,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,6, Kati,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,7,Kolokani,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,8,Nara,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,9,Fana ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+ Koulikoro,10,Oullessebou,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.8
+Sikasso ,1,Sikasso           ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.8
+Sikasso ,2,Bougouni,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.2
+Sikasso ,3,Kadiolo,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),7.5
+Sikasso ,4,Kolondieba,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.7
+Sikasso ,5,Koutiala,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.6
+Sikasso ,10,Niena,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.8
+Sikasso ,6,Yanfolila,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.5
+Sikasso ,7,Yorosso,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),6.7
+Sikasso ,8,Selingue,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.7
+Sikasso ,9,Kignan,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),7.5
+Ségou,1,Ségou,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,2,Barouéli,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,3,Bla,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,4,Macina,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,5,Niono,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,6,San,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,7,Tominian,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Ségou,8,Markala,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14
+Mopti,1,Bandiagara,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),8.3
+Mopti,2,Bankass,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),9.3
+Mopti,3,Djenné,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),9.8
+Mopti,4,Douentza,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.8
+Mopti,5,Koro,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.4
+Mopti,6,Mopti,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.3
+Mopti,7,Ténenkou,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11.5
+Mopti,8,Youwarou,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.7
+Tombouctou,1,Tombouctou,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.8
+Tombouctou,2,Diré,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.8
+Tombouctou,3,Goundam,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.8
+Tombouctou,4,Gourma Rharous,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.8
+Tombouctou,5,Niafunké,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.8
+Gao,1,Gao,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),11
+Gao,2,Ansongo,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.8
+Gao,3,Bourem,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),17
+Gao,4,Menaka,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),13.6
+Kidal,1,Abeibara,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),6
+Kidal,2,Kidal,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),6
+Kidal,3,Tessalit,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),6
+Kidal,4,Tin - Essako,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),6
+Bamako,1, COMMUNE I                       ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.2
+Bamako,2, COMMUNE II                      ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.2
+Bamako,3, COMMUNE III                     ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.2
+Bamako,4, COMMUNE IV                      ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.2
+Bamako,5, COMMUNE V                       ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.2
+Bamako,6, COMMUNE VI                      ,V04,Prevalence Malnutrition aiguë (SMART 2014*) (Global 6-59 mois),14.2
+Kayes,1,Kayes,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Kayes,2,Bafoulabe,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.8
+Kayes,8,Oussoubigiana,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Kayes,3, Diema,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.1
+Kayes,4, Kenieba,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Kayes,5, Kita,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Kayes,6,Nioro,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Kayes,7,Yelimane,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.2
+ Koulikoro,1, Koulikoro,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,2, Banamba,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,3,Diola,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,4,Kalabancoro,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,5, kangaba,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,6, Kati,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,7,Kolokani,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,8,Nara,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,9,Fana ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+ Koulikoro,10,Oullessebou,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Sikasso ,1,Sikasso           ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.4
+Sikasso ,2,Bougouni,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.1
+Sikasso ,3,Kadiolo,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Sikasso ,4,Kolondieba,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1
+Sikasso ,5,Koutiala,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.1
+Sikasso ,10,Niena,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.4
+Sikasso ,6,Yanfolila,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.8
+Sikasso ,7,Yorosso,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.9
+Sikasso ,8,Selingue,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.3
+Sikasso ,9,Kignan,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.9
+Ségou,1,Ségou,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,2,Barouéli,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,3,Bla,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,4,Macina,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,5,Niono,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,6,San,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,7,Tominian,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Ségou,8,Markala,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2
+Mopti,1,Bandiagara,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.8
+Mopti,2,Bankass,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.2
+Mopti,3,Djenné,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.3
+Mopti,4,Douentza,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3.1
+Mopti,5,Koro,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.8
+Mopti,6,Mopti,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3.6
+Mopti,7,Ténenkou,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.5
+Mopti,8,Youwarou,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),1.8
+Tombouctou,1,Tombouctou,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Tombouctou,2,Diré,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Tombouctou,3,Goundam,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Tombouctou,4,Gourma Rharous,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Tombouctou,5,Niafunké,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Gao,1,Gao,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.3
+Gao,2,Ansongo,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.5
+Gao,3,Bourem,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.4
+Gao,4,Menaka,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),2.9
+Kidal,1,Abeibara,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.04
+Kidal,2,Kidal,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.04
+Kidal,3,Tessalit,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.04
+Kidal,4,Tin - Essako,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),0.04
+Bamako,1, COMMUNE I                       ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3
+Bamako,2, COMMUNE II                      ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3
+Bamako,3, COMMUNE III                     ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3
+Bamako,4, COMMUNE IV                      ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3
+Bamako,5, COMMUNE V                       ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3
+Bamako,6, COMMUNE VI                      ,V05,Prevalence Malnutrition aiguë (SMART 2014*) (Sévère 6-59 mois),3
+Kayes,1,Kayes,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),9.8
+Kayes,2,Bafoulabe,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),4.8
+Kayes,8,Oussoubigiana,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),9.8
+Kayes,3, Diema,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),10.1
+Kayes,4, Kenieba,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),9.8
+Kayes,5, Kita,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),9.8
+Kayes,6,Nioro,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),9.8
+Kayes,7,Yelimane,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),13.5
+ Koulikoro,1, Koulikoro,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,2, Banamba,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,3,Diola,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,4,Kalabancoro,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,5, kangaba,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,6, Kati,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,7,Kolokani,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,8,Nara,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,9,Fana ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+ Koulikoro,10,Oullessebou,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.4
+Sikasso ,1,Sikasso           ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),7.4
+Sikasso ,2,Bougouni,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),7.1
+Sikasso ,3,Kadiolo,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),6
+Sikasso ,4,Kolondieba,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),7.7
+Sikasso ,5,Koutiala,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),10.5
+Sikasso ,10,Niena,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),7.4
+Sikasso ,6,Yanfolila,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),6.7
+Sikasso ,7,Yorosso,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),5.8
+Sikasso ,8,Selingue,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),7.4
+Sikasso ,9,Kignan,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),6.6
+Ségou,1,Ségou,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,2,Barouéli,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,3,Bla,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,4,Macina,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,5,Niono,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,6,San,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,7,Tominian,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Ségou,8,Markala,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12
+Mopti,1,Bandiagara,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),7.5
+Mopti,2,Bankass,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),8.1
+Mopti,3,Djenné,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),8.5
+Mopti,4,Douentza,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),8.7
+Mopti,5,Koro,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),10.6
+Mopti,6,Mopti,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),9.7
+Mopti,7,Ténenkou,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),10
+Mopti,8,Youwarou,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.9
+Tombouctou,1,Tombouctou,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12.4
+Tombouctou,2,Diré,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12.4
+Tombouctou,3,Goundam,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12.4
+Tombouctou,4,Gourma Rharous,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12.4
+Tombouctou,5,Niafunké,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12.4
+Gao,1,Gao,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),8.7
+Gao,2,Ansongo,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),12.3
+Gao,3,Bourem,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),14.6
+Gao,4,Menaka,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),10.7
+Kidal,1,Abeibara,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),5.96
+Kidal,2,Kidal,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),5.96
+Kidal,3,Tessalit,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),5.96
+Kidal,4,Tin - Essako,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),5.96
+Bamako,1, COMMUNE I                       ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.2
+Bamako,2, COMMUNE II                      ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.2
+Bamako,3, COMMUNE III                     ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.2
+Bamako,4, COMMUNE IV                      ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.2
+Bamako,5, COMMUNE V                       ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.2
+Bamako,6, COMMUNE VI                      ,V06,Prevalence Malnutrition aiguë (SMART 2014*) (Modérée 6-59 mois),11.2
+Kayes,1,Kayes,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),24202
+Kayes,2,Bafoulabe,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),3028
+Kayes,8,Oussoubigiana,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),4960
+Kayes,3, Diema,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),11079
+Kayes,4, Kenieba,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),9154
+Kayes,5, Kita,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),20478
+Kayes,6,Nioro,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),10866
+Kayes,7,Yelimane,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),11746
+ Koulikoro,1, Koulikoro,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),11926
+ Koulikoro,2, Banamba,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),10747
+ Koulikoro,3,Diola,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),14984
+ Koulikoro,4,Kalabancoro,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),14263
+ Koulikoro,5, kangaba,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),5690
+ Koulikoro,6, Kati,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),28048
+ Koulikoro,7,Kolokani,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),13214
+ Koulikoro,8,Nara,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),13727
+ Koulikoro,9,Fana ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),12764
+ Koulikoro,10,Oullessebou,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),11248
+Sikasso ,1,Sikasso           ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),18283
+Sikasso ,2,Bougouni,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),15866
+Sikasso ,3,Kadiolo,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),7903
+Sikasso ,4,Kolondieba,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),7328
+Sikasso ,5,Koutiala,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),27360
+Sikasso ,10,Niena,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),4675
+Sikasso ,6,Yanfolila,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),4864
+Sikasso ,7,Yorosso,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),5968
+Sikasso ,8,Selingue,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),3057
+Sikasso ,9,Kignan,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),3631
+Ségou,1,Ségou,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),25073
+Ségou,2,Barouéli,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),11533
+Ségou,3,Bla,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),16075
+Ségou,4,Macina,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),13458
+Ségou,5,Niono,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),20708
+Ségou,6,San,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),18978
+Ségou,7,Tominian,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),12458
+Ségou,8,Markala,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),14105
+Mopti,1,Bandiagara,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),10151
+Mopti,2,Bankass,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),9635
+Mopti,3,Djenné,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),8007
+Mopti,4,Douentza,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),12530
+Mopti,5,Koro,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),20095
+Mopti,6,Mopti,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),21106
+Mopti,7,Ténenkou,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),7409
+Mopti,8,Youwarou,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),5762
+Tombouctou,1,Tombouctou,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),7377
+Tombouctou,2,Diré,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),6594
+Tombouctou,3,Goundam,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),8893
+Tombouctou,4,Gourma Rharous,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),6597
+Tombouctou,5,Niafunké,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),10917
+Gao,1,Gao,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),11074
+Gao,2,Ansongo,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),8003
+Gao,3,Bourem,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),7917
+Gao,4,Menaka,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),3211
+Kidal,1,Abeibara,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),207
+Kidal,2,Kidal,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),662
+Kidal,3,Tessalit,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),326
+Kidal,4,Tin - Essako,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),161
+Bamako,1, COMMUNE I                       ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),15795
+Bamako,2, COMMUNE II                      ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),7526
+Bamako,3, COMMUNE III                     ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),6069
+Bamako,4, COMMUNE IV                      ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),14131
+Bamako,5, COMMUNE V                       ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),19528
+Bamako,6, COMMUNE VI                      ,V07,Burden 100% 2015 variante mediane (Global 6-59 mois),22146
+Kayes,1,Kayes,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),5075
+Kayes,2,Bafoulabe,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),679
+Kayes,8,Oussoubigiana,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1040
+Kayes,3, Diema,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2935
+Kayes,4, Kenieba,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1919
+Kayes,5, Kita,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4293
+Kayes,6,Nioro,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2278
+Kayes,7,Yelimane,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2587
+ Koulikoro,1, Koulikoro,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3188
+ Koulikoro,2, Banamba,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2873
+ Koulikoro,3,Diola,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4007
+ Koulikoro,4,Kalabancoro,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3814
+ Koulikoro,5, kangaba,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1521
+ Koulikoro,6, Kati,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),7498
+ Koulikoro,7,Kolokani,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3533
+ Koulikoro,8,Nara,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3669
+ Koulikoro,9,Fana ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3411
+ Koulikoro,10,Oullessebou,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3008
+Sikasso ,1,Sikasso           ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4514
+Sikasso ,2,Bougouni,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3359
+Sikasso ,3,Kadiolo,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2389
+Sikasso ,4,Kolondieba,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1347
+Sikasso ,5,Koutiala,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4204
+Sikasso ,10,Niena,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1154
+Sikasso ,6,Yanfolila,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1544
+Sikasso ,7,Yorosso,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1264
+Sikasso ,8,Selingue,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),712
+Sikasso ,9,Kignan,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),694
+Ségou,1,Ségou,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),5619
+Ségou,2,Barouéli,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2584
+Ségou,3,Bla,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3604
+Ségou,4,Macina,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3016
+Ségou,5,Niono,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4641
+Ségou,6,San,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4254
+Ségou,7,Tominian,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2792
+Ségou,8,Markala,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3162
+Mopti,1,Bandiagara,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1583
+Mopti,2,Bankass,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1968
+Mopti,3,Djenné,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1677
+Mopti,4,Douentza,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4784
+Mopti,5,Koro,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),6310
+Mopti,6,Mopti,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),8263
+Mopti,7,Ténenkou,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1529
+Mopti,8,Youwarou,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1196
+Tombouctou,1,Tombouctou,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1854
+Tombouctou,2,Diré,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1656
+Tombouctou,3,Goundam,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2233
+Tombouctou,4,Gourma Rharous,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1656
+Tombouctou,5,Niafunké,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2743
+Gao,1,Gao,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3479
+Gao,2,Ansongo,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2085
+Gao,3,Bourem,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1755
+Gao,4,Menaka,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1027
+Kidal,1,Abeibara,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3
+Kidal,2,Kidal,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),8
+Kidal,3,Tessalit,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3
+Kidal,4,Tin - Essako,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),3
+Bamako,1, COMMUNE I                       ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),5008
+Bamako,2, COMMUNE II                      ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),2387
+Bamako,3, COMMUNE III                     ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),1924
+Bamako,4, COMMUNE IV                      ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),4480
+Bamako,5, COMMUNE V                       ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),6191
+Bamako,6, COMMUNE VI                      ,V08,Burden 100% 2015 variante mediane (Sévère 6-59 mois),7023
+Kayes,1,Kayes,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),19127
+Kayes,2,Bafoulabe,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),2349
+Kayes,8,Oussoubigiana,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),3920
+Kayes,3, Diema,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8144
+Kayes,4, Kenieba,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),7235
+Kayes,5, Kita,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),16185
+Kayes,6,Nioro,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8588
+Kayes,7,Yelimane,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),9159
+ Koulikoro,1, Koulikoro,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8738
+ Koulikoro,2, Banamba,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),7874
+ Koulikoro,3,Diola,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),10977
+ Koulikoro,4,Kalabancoro,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),10449
+ Koulikoro,5, kangaba,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),4169
+ Koulikoro,6, Kati,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),20550
+ Koulikoro,7,Kolokani,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),9681
+ Koulikoro,8,Nara,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),10058
+ Koulikoro,9,Fana ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),9353
+ Koulikoro,10,Oullessebou,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8240
+Sikasso ,1,Sikasso           ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),13769
+Sikasso ,2,Bougouni,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),12507
+Sikasso ,3,Kadiolo,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),5514
+Sikasso ,4,Kolondieba,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),5981
+Sikasso ,5,Koutiala,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),23156
+Sikasso ,10,Niena,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),3521
+Sikasso ,6,Yanfolila,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),3320
+Sikasso ,7,Yorosso,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),4704
+Sikasso ,8,Selingue,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),2345
+Sikasso ,9,Kignan,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),2937
+Ségou,1,Ségou,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),19454
+Ségou,2,Barouéli,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8949
+Ségou,3,Bla,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),12471
+Ségou,4,Macina,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),10442
+Ségou,5,Niono,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),16067
+Ségou,6,San,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),14724
+Ségou,7,Tominian,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),9666
+Ségou,8,Markala,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),10943
+Mopti,1,Bandiagara,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8568
+Mopti,2,Bankass,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),7667
+Mopti,3,Djenné,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),6330
+Mopti,4,Douentza,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),7746
+Mopti,5,Koro,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),13785
+Mopti,6,Mopti,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),12843
+Mopti,7,Ténenkou,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),5880
+Mopti,8,Youwarou,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),4566
+Tombouctou,1,Tombouctou,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),5523
+Tombouctou,2,Diré,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),4938
+Tombouctou,3,Goundam,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),6660
+Tombouctou,4,Gourma Rharous,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),4941
+Tombouctou,5,Niafunké,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),8174
+Gao,1,Gao,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),7595
+Gao,2,Ansongo,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),5918
+Gao,3,Bourem,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),6162
+Gao,4,Menaka,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),2184
+Kidal,1,Abeibara,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),204
+Kidal,2,Kidal,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),654
+Kidal,3,Tessalit,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),323
+Kidal,4,Tin - Essako,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),158
+Bamako,1, COMMUNE I                       ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),10787
+Bamako,2, COMMUNE II                      ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),5139
+Bamako,3, COMMUNE III                     ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),4145
+Bamako,4, COMMUNE IV                      ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),9651
+Bamako,5, COMMUNE V                       ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),13337
+Bamako,6, COMMUNE VI                      ,V09,Burden 100% 2015 variante mediane (Modérée 6-59 mois),15123
+Kayes,1,Kayes,V10,CASELOAD pour 2015 (Global 6-59 mois),17195.15
+Kayes,2,Bafoulabe,V10,CASELOAD pour 2015 (Global 6-59 mois),2153.55
+Kayes,8,Oussoubigiana,V10,CASELOAD pour 2015 (Global 6-59 mois),3524
+Kayes,3, Diema,V10,CASELOAD pour 2015 (Global 6-59 mois),7902.05
+Kayes,4, Kenieba,V10,CASELOAD pour 2015 (Global 6-59 mois),6503.75
+Kayes,5, Kita,V10,CASELOAD pour 2015 (Global 6-59 mois),14549.25
+Kayes,6,Nioro,V10,CASELOAD pour 2015 (Global 6-59 mois),7720.1
+Kayes,7,Yelimane,V10,CASELOAD pour 2015 (Global 6-59 mois),8351.55
+ Koulikoro,1, Koulikoro,V10,CASELOAD pour 2015 (Global 6-59 mois),8507.6
+ Koulikoro,2, Banamba,V10,CASELOAD pour 2015 (Global 6-59 mois),7666.55
+ Koulikoro,3,Diola,V10,CASELOAD pour 2015 (Global 6-59 mois),10689.15
+ Koulikoro,4,Kalabancoro,V10,CASELOAD pour 2015 (Global 6-59 mois),10174.8
+ Koulikoro,5, kangaba,V10,CASELOAD pour 2015 (Global 6-59 mois),4059.05
+ Koulikoro,6, Kati,V10,CASELOAD pour 2015 (Global 6-59 mois),20008.5
+ Koulikoro,7,Kolokani,V10,CASELOAD pour 2015 (Global 6-59 mois),9426.45
+ Koulikoro,8,Nara,V10,CASELOAD pour 2015 (Global 6-59 mois),9792.35
+ Koulikoro,9,Fana ,V10,CASELOAD pour 2015 (Global 6-59 mois),9105.35
+ Koulikoro,10,Oullessebou,V10,CASELOAD pour 2015 (Global 6-59 mois),8024
+Sikasso ,1,Sikasso           ,V10,CASELOAD pour 2015 (Global 6-59 mois),13023.8
+Sikasso ,2,Bougouni,V10,CASELOAD pour 2015 (Global 6-59 mois),11274.15
+Sikasso ,3,Kadiolo,V10,CASELOAD pour 2015 (Global 6-59 mois),5651.55
+Sikasso ,4,Kolondieba,V10,CASELOAD pour 2015 (Global 6-59 mois),5196.95
+Sikasso ,5,Koutiala,V10,CASELOAD pour 2015 (Global 6-59 mois),19362.2
+Sikasso ,10,Niena,V10,CASELOAD pour 2015 (Global 6-59 mois),3330.2
+Sikasso ,6,Yanfolila,V10,CASELOAD pour 2015 (Global 6-59 mois),3482
+Sikasso ,7,Yorosso,V10,CASELOAD pour 2015 (Global 6-59 mois),4240.8
+Sikasso ,8,Selingue,V10,CASELOAD pour 2015 (Global 6-59 mois),2175.5
+Sikasso ,9,Kignan,V10,CASELOAD pour 2015 (Global 6-59 mois),2576.4
+Ségou,1,Ségou,V10,CASELOAD pour 2015 (Global 6-59 mois),17832.05
+Ségou,2,Barouéli,V10,CASELOAD pour 2015 (Global 6-59 mois),8202.3
+Ségou,3,Bla,V10,CASELOAD pour 2015 (Global 6-59 mois),11432.7
+Ségou,4,Macina,V10,CASELOAD pour 2015 (Global 6-59 mois),9571.4
+Ségou,5,Niono,V10,CASELOAD pour 2015 (Global 6-59 mois),14727.65
+Ségou,6,San,V10,CASELOAD pour 2015 (Global 6-59 mois),13497.3
+Ségou,7,Tominian,V10,CASELOAD pour 2015 (Global 6-59 mois),8860.2
+Ségou,8,Markala,V10,CASELOAD pour 2015 (Global 6-59 mois),10031.6
+Mopti,1,Bandiagara,V10,CASELOAD pour 2015 (Global 6-59 mois),7184.85
+Mopti,2,Bankass,V10,CASELOAD pour 2015 (Global 6-59 mois),6842.9
+Mopti,3,Djenné,V10,CASELOAD pour 2015 (Global 6-59 mois),5688.75
+Mopti,4,Douentza,V10,CASELOAD pour 2015 (Global 6-59 mois),9010.2
+Mopti,5,Koro,V10,CASELOAD pour 2015 (Global 6-59 mois),14382
+Mopti,6,Mopti,V10,CASELOAD pour 2015 (Global 6-59 mois),15187.35
+Mopti,7,Ténenkou,V10,CASELOAD pour 2015 (Global 6-59 mois),5262.75
+Mopti,8,Youwarou,V10,CASELOAD pour 2015 (Global 6-59 mois),4093.2
+Tombouctou,1,Tombouctou,V10,CASELOAD pour 2015 (Global 6-59 mois),5256.6
+Tombouctou,2,Diré,V10,CASELOAD pour 2015 (Global 6-59 mois),4698.6
+Tombouctou,3,Goundam,V10,CASELOAD pour 2015 (Global 6-59 mois),6336.75
+Tombouctou,4,Gourma Rharous,V10,CASELOAD pour 2015 (Global 6-59 mois),4700.7
+Tombouctou,5,Niafunké,V10,CASELOAD pour 2015 (Global 6-59 mois),7779.05
+Gao,1,Gao,V10,CASELOAD pour 2015 (Global 6-59 mois),7925.75
+Gao,2,Ansongo,V10,CASELOAD pour 2015 (Global 6-59 mois),5706.35
+Gao,3,Bourem,V10,CASELOAD pour 2015 (Global 6-59 mois),5629.65
+Gao,4,Menaka,V10,CASELOAD pour 2015 (Global 6-59 mois),2299.05
+Kidal,1,Abeibara,V10,CASELOAD pour 2015 (Global 6-59 mois),145.05
+Kidal,2,Kidal,V10,CASELOAD pour 2015 (Global 6-59 mois),463.8
+Kidal,3,Tessalit,V10,CASELOAD pour 2015 (Global 6-59 mois),228.35
+Kidal,4,Tin - Essako,V10,CASELOAD pour 2015 (Global 6-59 mois),112.85
+Bamako,1, COMMUNE I                       ,V10,CASELOAD pour 2015 (Global 6-59 mois),11306.9
+Bamako,2, COMMUNE II                      ,V10,CASELOAD pour 2015 (Global 6-59 mois),5387.55
+Bamako,3, COMMUNE III                     ,V10,CASELOAD pour 2015 (Global 6-59 mois),4344.5
+Bamako,4, COMMUNE IV                      ,V10,CASELOAD pour 2015 (Global 6-59 mois),10115.7
+Bamako,5, COMMUNE V                       ,V10,CASELOAD pour 2015 (Global 6-59 mois),13979.15
+Bamako,6, COMMUNE VI                      ,V10,CASELOAD pour 2015 (Global 6-59 mois),15853.35
+Kayes,1,Kayes,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3806.25
+Kayes,2,Bafoulabe,V11,CASELOAD pour 2015 (Sévère 6-59 mois),509.25
+Kayes,8,Oussoubigiana,V11,CASELOAD pour 2015 (Sévère 6-59 mois),780
+Kayes,3, Diema,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2201.25
+Kayes,4, Kenieba,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1439.25
+Kayes,5, Kita,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3219.75
+Kayes,6,Nioro,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1708.5
+Kayes,7,Yelimane,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1940.25
+ Koulikoro,1, Koulikoro,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2391
+ Koulikoro,2, Banamba,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2154.75
+ Koulikoro,3,Diola,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3005.25
+ Koulikoro,4,Kalabancoro,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2860.5
+ Koulikoro,5, kangaba,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1140.75
+ Koulikoro,6, Kati,V11,CASELOAD pour 2015 (Sévère 6-59 mois),5623.5
+ Koulikoro,7,Kolokani,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2649.75
+ Koulikoro,8,Nara,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2751.75
+ Koulikoro,9,Fana ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2558.25
+ Koulikoro,10,Oullessebou,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2256
+Sikasso ,1,Sikasso           ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3385.5
+Sikasso ,2,Bougouni,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2519.25
+Sikasso ,3,Kadiolo,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1791.75
+Sikasso ,4,Kolondieba,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1010.25
+Sikasso ,5,Koutiala,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3153
+Sikasso ,10,Niena,V11,CASELOAD pour 2015 (Sévère 6-59 mois),865.5
+Sikasso ,6,Yanfolila,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1158
+Sikasso ,7,Yorosso,V11,CASELOAD pour 2015 (Sévère 6-59 mois),948
+Sikasso ,8,Selingue,V11,CASELOAD pour 2015 (Sévère 6-59 mois),534
+Sikasso ,9,Kignan,V11,CASELOAD pour 2015 (Sévère 6-59 mois),520.5
+Ségou,1,Ségou,V11,CASELOAD pour 2015 (Sévère 6-59 mois),4214.25
+Ségou,2,Barouéli,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1938
+Ségou,3,Bla,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2703
+Ségou,4,Macina,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2262
+Ségou,5,Niono,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3480.75
+Ségou,6,San,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3190.5
+Ségou,7,Tominian,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2094
+Ségou,8,Markala,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2371.5
+Mopti,1,Bandiagara,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1187.25
+Mopti,2,Bankass,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1476
+Mopti,3,Djenné,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1257.75
+Mopti,4,Douentza,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3588
+Mopti,5,Koro,V11,CASELOAD pour 2015 (Sévère 6-59 mois),4732.5
+Mopti,6,Mopti,V11,CASELOAD pour 2015 (Sévère 6-59 mois),6197.25
+Mopti,7,Ténenkou,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1146.75
+Mopti,8,Youwarou,V11,CASELOAD pour 2015 (Sévère 6-59 mois),897
+Tombouctou,1,Tombouctou,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1390.5
+Tombouctou,2,Diré,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1242
+Tombouctou,3,Goundam,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1674.75
+Tombouctou,4,Gourma Rharous,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1242
+Tombouctou,5,Niafunké,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2057.25
+Gao,1,Gao,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2609.25
+Gao,2,Ansongo,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1563.75
+Gao,3,Bourem,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1316.25
+Gao,4,Menaka,V11,CASELOAD pour 2015 (Sévère 6-59 mois),770.25
+Kidal,1,Abeibara,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2.25
+Kidal,2,Kidal,V11,CASELOAD pour 2015 (Sévère 6-59 mois),6
+Kidal,3,Tessalit,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2.25
+Kidal,4,Tin - Essako,V11,CASELOAD pour 2015 (Sévère 6-59 mois),2.25
+Bamako,1, COMMUNE I                       ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3756
+Bamako,2, COMMUNE II                      ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1790.25
+Bamako,3, COMMUNE III                     ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),1443
+Bamako,4, COMMUNE IV                      ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),3360
+Bamako,5, COMMUNE V                       ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),4643.25
+Bamako,6, COMMUNE VI                      ,V11,CASELOAD pour 2015 (Sévère 6-59 mois),5267.25
+Kayes,1,Kayes,V12,CASELOAD pour 2015 (Modérée 6-59 mois),13388.9
+Kayes,2,Bafoulabe,V12,CASELOAD pour 2015 (Modérée 6-59 mois),1644.3
+Kayes,8,Oussoubigiana,V12,CASELOAD pour 2015 (Modérée 6-59 mois),2744
+Kayes,3, Diema,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5700.8
+Kayes,4, Kenieba,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5064.5
+Kayes,5, Kita,V12,CASELOAD pour 2015 (Modérée 6-59 mois),11329.5
+Kayes,6,Nioro,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6011.6
+Kayes,7,Yelimane,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6411.3
+ Koulikoro,1, Koulikoro,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6116.6
+ Koulikoro,2, Banamba,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5511.8
+ Koulikoro,3,Diola,V12,CASELOAD pour 2015 (Modérée 6-59 mois),7683.9
+ Koulikoro,4,Kalabancoro,V12,CASELOAD pour 2015 (Modérée 6-59 mois),7314.3
+ Koulikoro,5, kangaba,V12,CASELOAD pour 2015 (Modérée 6-59 mois),2918.3
+ Koulikoro,6, Kati,V12,CASELOAD pour 2015 (Modérée 6-59 mois),14385
+ Koulikoro,7,Kolokani,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6776.7
+ Koulikoro,8,Nara,V12,CASELOAD pour 2015 (Modérée 6-59 mois),7040.6
+ Koulikoro,9,Fana ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6547.1
+ Koulikoro,10,Oullessebou,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5768
+Sikasso ,1,Sikasso           ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),9638.3
+Sikasso ,2,Bougouni,V12,CASELOAD pour 2015 (Modérée 6-59 mois),8754.9
+Sikasso ,3,Kadiolo,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3859.8
+Sikasso ,4,Kolondieba,V12,CASELOAD pour 2015 (Modérée 6-59 mois),4186.7
+Sikasso ,5,Koutiala,V12,CASELOAD pour 2015 (Modérée 6-59 mois),16209.2
+Sikasso ,10,Niena,V12,CASELOAD pour 2015 (Modérée 6-59 mois),2464.7
+Sikasso ,6,Yanfolila,V12,CASELOAD pour 2015 (Modérée 6-59 mois),2324
+Sikasso ,7,Yorosso,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3292.8
+Sikasso ,8,Selingue,V12,CASELOAD pour 2015 (Modérée 6-59 mois),1641.5
+Sikasso ,9,Kignan,V12,CASELOAD pour 2015 (Modérée 6-59 mois),2055.9
+Ségou,1,Ségou,V12,CASELOAD pour 2015 (Modérée 6-59 mois),13617.8
+Ségou,2,Barouéli,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6264.3
+Ségou,3,Bla,V12,CASELOAD pour 2015 (Modérée 6-59 mois),8729.7
+Ségou,4,Macina,V12,CASELOAD pour 2015 (Modérée 6-59 mois),7309.4
+Ségou,5,Niono,V12,CASELOAD pour 2015 (Modérée 6-59 mois),11246.9
+Ségou,6,San,V12,CASELOAD pour 2015 (Modérée 6-59 mois),10306.8
+Ségou,7,Tominian,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6766.2
+Ségou,8,Markala,V12,CASELOAD pour 2015 (Modérée 6-59 mois),7660.1
+Mopti,1,Bandiagara,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5997.6
+Mopti,2,Bankass,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5366.9
+Mopti,3,Djenné,V12,CASELOAD pour 2015 (Modérée 6-59 mois),4431
+Mopti,4,Douentza,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5422.2
+Mopti,5,Koro,V12,CASELOAD pour 2015 (Modérée 6-59 mois),9649.5
+Mopti,6,Mopti,V12,CASELOAD pour 2015 (Modérée 6-59 mois),8990.1
+Mopti,7,Ténenkou,V12,CASELOAD pour 2015 (Modérée 6-59 mois),4116
+Mopti,8,Youwarou,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3196.2
+Tombouctou,1,Tombouctou,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3866.1
+Tombouctou,2,Diré,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3456.6
+Tombouctou,3,Goundam,V12,CASELOAD pour 2015 (Modérée 6-59 mois),4662
+Tombouctou,4,Gourma Rharous,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3458.7
+Tombouctou,5,Niafunké,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5721.8
+Gao,1,Gao,V12,CASELOAD pour 2015 (Modérée 6-59 mois),5316.5
+Gao,2,Ansongo,V12,CASELOAD pour 2015 (Modérée 6-59 mois),4142.6
+Gao,3,Bourem,V12,CASELOAD pour 2015 (Modérée 6-59 mois),4313.4
+Gao,4,Menaka,V12,CASELOAD pour 2015 (Modérée 6-59 mois),1528.8
+Kidal,1,Abeibara,V12,CASELOAD pour 2015 (Modérée 6-59 mois),142.8
+Kidal,2,Kidal,V12,CASELOAD pour 2015 (Modérée 6-59 mois),457.8
+Kidal,3,Tessalit,V12,CASELOAD pour 2015 (Modérée 6-59 mois),226.1
+Kidal,4,Tin - Essako,V12,CASELOAD pour 2015 (Modérée 6-59 mois),110.6
+Bamako,1, COMMUNE I                       ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),7550.9
+Bamako,2, COMMUNE II                      ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),3597.3
+Bamako,3, COMMUNE III                     ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),2901.5
+Bamako,4, COMMUNE IV                      ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),6755.7
+Bamako,5, COMMUNE V                       ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),9335.9
+Bamako,6, COMMUNE VI                      ,V12,CASELOAD pour 2015 (Modérée 6-59 mois),10586.1
+Kayes,1,Kayes,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,2,Bafoulabe,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,8,Oussoubigiana,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,3, Diema,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,4, Kenieba,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,5, Kita,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,6,Nioro,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,7,Yelimane,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,1, Koulikoro,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,2, Banamba,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,3,Diola,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,4,Kalabancoro,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,5, kangaba,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,6, Kati,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,7,Kolokani,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,8,Nara,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,9,Fana ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+ Koulikoro,10,Oullessebou,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,1,Sikasso           ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,2,Bougouni,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,3,Kadiolo,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,4,Kolondieba,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,5,Koutiala,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,10,Niena,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,6,Yanfolila,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,7,Yorosso,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,8,Selingue,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Sikasso ,9,Kignan,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,1,Ségou,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,2,Barouéli,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,3,Bla,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,4,Macina,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,5,Niono,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,6,San,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,7,Tominian,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Ségou,8,Markala,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,1,Bandiagara,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,2,Bankass,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,3,Djenné,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,4,Douentza,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,5,Koro,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,6,Mopti,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,7,Ténenkou,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Mopti,8,Youwarou,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Tombouctou,1,Tombouctou,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Tombouctou,2,Diré,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Tombouctou,3,Goundam,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Tombouctou,4,Gourma Rharous,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Tombouctou,5,Niafunké,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Gao,1,Gao,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Gao,2,Ansongo,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Gao,3,Bourem,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Gao,4,Menaka,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kidal,1,Abeibara,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kidal,2,Kidal,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kidal,3,Tessalit,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kidal,4,Tin - Essako,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Bamako,1, COMMUNE I                       ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Bamako,2, COMMUNE II                      ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Bamako,3, COMMUNE III                     ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Bamako,4, COMMUNE IV                      ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Bamako,5, COMMUNE V                       ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Bamako,6, COMMUNE VI                      ,V13,Femme Enceinte et Allaintante Caseload 100% (%FE),0.05
+Kayes,1,Kayes,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),31429
+Kayes,2,Bafoulabe,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),1631
+Kayes,8,Oussoubigiana,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),1333
+Kayes,3, Diema,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),12983
+Kayes,4, Kenieba,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),11887
+Kayes,5, Kita,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),26594
+Kayes,6,Nioro,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),14111
+Kayes,7,Yelimane,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),10925
+ Koulikoro,1, Koulikoro,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),12967
+ Koulikoro,2, Banamba,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),11686
+ Koulikoro,3,Diola,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),16294
+ Koulikoro,4,Kalabancoro,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),15509
+ Koulikoro,5, kangaba,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),6187
+ Koulikoro,6, Kati,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),30501
+ Koulikoro,7,Kolokani,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),14369
+ Koulikoro,8,Nara,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),14926
+ Koulikoro,9,Fana ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),13880
+ Koulikoro,10,Oullessebou,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),12231
+Sikasso ,1,Sikasso           ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),29960
+Sikasso ,2,Bougouni,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),28366
+Sikasso ,3,Kadiolo,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),14798
+Sikasso ,4,Kolondieba,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),12508
+Sikasso ,5,Koutiala,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),35511
+Sikasso ,10,Niena,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),7660
+Sikasso ,6,Yanfolila,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),7976
+Sikasso ,7,Yorosso,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),13057
+Sikasso ,8,Selingue,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),5100
+Sikasso ,9,Kignan,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),7166
+Ségou,1,Ségou,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),27159
+Ségou,2,Barouéli,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),12494
+Ségou,3,Bla,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),17411
+Ségou,4,Macina,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),14576
+Ségou,5,Niono,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),22431
+Ségou,6,San,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),20557
+Ségou,7,Tominian,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),13495
+Ségou,8,Markala,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),15277
+Mopti,1,Bandiagara,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),19485
+Mopti,2,Bankass,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),16144
+Mopti,3,Djenné,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),12701
+Mopti,4,Douentza,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),15185
+Mopti,5,Koro,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),22180
+Mopti,6,Mopti,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),22583
+Mopti,7,Ténenkou,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),10028
+Mopti,8,Youwarou,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),6543
+Tombouctou,1,Tombouctou,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),7563.844029
+Tombouctou,2,Diré,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),6760.854405
+Tombouctou,3,Goundam,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),9118.808962
+Tombouctou,4,Gourma Rharous,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),6764.619747
+Tombouctou,5,Niafunké,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),11191.87286
+Gao,1,Gao,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),14657
+Gao,2,Ansongo,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),8079
+Gao,3,Bourem,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),7086
+Gao,4,Menaka,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),3428
+Kidal,1,Abeibara,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),631
+Kidal,2,Kidal,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),2030
+Kidal,3,Tessalit,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),999
+Kidal,4,Tin - Essako,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),489
+Bamako,1, COMMUNE I                       ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),20579
+Bamako,2, COMMUNE II                      ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),9805
+Bamako,3, COMMUNE III                     ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),7907
+Bamako,4, COMMUNE IV                      ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),18412
+Bamako,5, COMMUNE V                       ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),25442
+Bamako,6, COMMUNE VI                      ,V14,Femme Enceinte et Allaintante Caseload 100% (Nbre FE en 2015),28854
+Kayes,1,Kayes,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.3
+Kayes,2,Bafoulabe,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),5.5
+Kayes,8,Oussoubigiana,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.3
+Kayes,3, Diema,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.4
+Kayes,4, Kenieba,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.3
+Kayes,5, Kita,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.3
+Kayes,6,Nioro,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.3
+Kayes,7,Yelimane,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),12.8
+ Koulikoro,1, Koulikoro,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,2, Banamba,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,3,Diola,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,4,Kalabancoro,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,5, kangaba,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,6, Kati,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,7,Kolokani,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,8,Nara,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,9,Fana ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+ Koulikoro,10,Oullessebou,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.2
+Sikasso ,1,Sikasso           ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.2
+Sikasso ,2,Bougouni,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),5.1
+Sikasso ,3,Kadiolo,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6.3
+Sikasso ,4,Kolondieba,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Sikasso ,5,Koutiala,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),5.7
+Sikasso ,10,Niena,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.9
+Sikasso ,6,Yanfolila,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),5.8
+Sikasso ,7,Yorosso,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),5.6
+Sikasso ,8,Selingue,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.2
+Sikasso ,9,Kignan,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),3.6
+Ségou,1,Ségou,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,2,Barouéli,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,3,Bla,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,4,Macina,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,5,Niono,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,6,San,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,7,Tominian,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Ségou,8,Markala,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Mopti,1,Bandiagara,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.4
+Mopti,2,Bankass,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.7
+Mopti,3,Djenné,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),8.2
+Mopti,4,Douentza,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),4.8
+Mopti,5,Koro,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),8.6
+Mopti,6,Mopti,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),3.5
+Mopti,7,Ténenkou,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),11.2
+Mopti,8,Youwarou,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),6
+Tombouctou,1,Tombouctou,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.4
+Tombouctou,2,Diré,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.4
+Tombouctou,3,Goundam,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.4
+Tombouctou,4,Gourma Rharous,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.4
+Tombouctou,5,Niafunké,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.4
+Gao,1,Gao,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),8
+Gao,2,Ansongo,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),8
+Gao,3,Bourem,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),8
+Gao,4,Menaka,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),8
+Kidal,1,Abeibara,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.5
+Kidal,2,Kidal,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.5
+Kidal,3,Tessalit,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.5
+Kidal,4,Tin - Essako,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),7.5
+Bamako,1, COMMUNE I                       ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),2.6
+Bamako,2, COMMUNE II                      ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),2.6
+Bamako,3, COMMUNE III                     ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),2.6
+Bamako,4, COMMUNE IV                      ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),2.6
+Bamako,5, COMMUNE V                       ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),2.6
+Bamako,6, COMMUNE VI                      ,V15,Femme Enceinte et Allaintante Caseload 100% (Prevalance SMART 2014),2.6
+Kayes,1,Kayes,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),2970
+Kayes,2,Bafoulabe,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),135
+Kayes,8,Oussoubigiana,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),126
+Kayes,3, Diema,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1442
+Kayes,4, Kenieba,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1124
+Kayes,5, Kita,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),2513
+Kayes,6,Nioro,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1334
+Kayes,7,Yelimane,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),2097
+ Koulikoro,1, Koulikoro,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1206
+ Koulikoro,2, Banamba,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1088
+ Koulikoro,3,Diola,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1515
+ Koulikoro,4,Kalabancoro,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1443
+ Koulikoro,5, kangaba,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),576
+ Koulikoro,6, Kati,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),2837
+ Koulikoro,7,Kolokani,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1337
+ Koulikoro,8,Nara,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1388
+ Koulikoro,9,Fana ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1292
+ Koulikoro,10,Oullessebou,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1137
+Sikasso ,1,Sikasso           ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1887
+Sikasso ,2,Bougouni,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),2171
+Sikasso ,3,Kadiolo,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1398
+Sikasso ,4,Kolondieba,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),882
+Sikasso ,5,Koutiala,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),3036
+Sikasso ,10,Niena,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),563
+Sikasso ,6,Yanfolila,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),695
+Sikasso ,7,Yorosso,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1097
+Sikasso ,8,Selingue,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),321
+Sikasso ,9,Kignan,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),387
+Ségou,1,Ségou,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1914
+Ségou,2,Barouéli,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),881
+Ségou,3,Bla,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1227
+Ségou,4,Macina,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1028
+Ségou,5,Niono,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1581
+Ségou,6,San,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1449
+Ségou,7,Tominian,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),951
+Ségou,8,Markala,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1077
+Mopti,1,Bandiagara,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1286
+Mopti,2,Bankass,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1139
+Mopti,3,Djenné,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1562
+Mopti,4,Douentza,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1094
+Mopti,5,Koro,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),2861
+Mopti,6,Mopti,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1185
+Mopti,7,Ténenkou,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1685
+Mopti,8,Youwarou,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),590
+Tombouctou,1,Tombouctou,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),840
+Tombouctou,2,Diré,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),750
+Tombouctou,3,Goundam,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1013
+Tombouctou,4,Gourma Rharous,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),752
+Tombouctou,5,Niafunké,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1242
+Gao,1,Gao,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1760
+Gao,2,Ansongo,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),969
+Gao,3,Bourem,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),851
+Gao,4,Menaka,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),411
+Kidal,1,Abeibara,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),71
+Kidal,2,Kidal,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),228
+Kidal,3,Tessalit,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),113
+Kidal,4,Tin - Essako,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),56
+Bamako,1, COMMUNE I                       ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),803
+Bamako,2, COMMUNE II                      ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),383
+Bamako,3, COMMUNE III                     ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),309
+Bamako,4, COMMUNE IV                      ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),719
+Bamako,5, COMMUNE V                       ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),992
+Bamako,6, COMMUNE VI                      ,V16,Femme Enceinte et Allaintante Caseload 100% (BURDEN pour 2015),1125
+Kayes,1,Kayes,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),2465.1
+Kayes,2,Bafoulabe,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),112.05
+Kayes,8,Oussoubigiana,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),104.58
+Kayes,3, Diema,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1196.86
+Kayes,4, Kenieba,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),932.92
+Kayes,5, Kita,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),2085.79
+Kayes,6,Nioro,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1107.22
+Kayes,7,Yelimane,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1740.51
+ Koulikoro,1, Koulikoro,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1000.98
+ Koulikoro,2, Banamba,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),903.04
+ Koulikoro,3,Diola,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1257.45
+ Koulikoro,4,Kalabancoro,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1197.69
+ Koulikoro,5, kangaba,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),478.08
+ Koulikoro,6, Kati,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),2354.71
+ Koulikoro,7,Kolokani,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1109.71
+ Koulikoro,8,Nara,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1152.04
+ Koulikoro,9,Fana ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1072.36
+ Koulikoro,10,Oullessebou,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),943.71
+Sikasso ,1,Sikasso           ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1566.21
+Sikasso ,2,Bougouni,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1801.93
+Sikasso ,3,Kadiolo,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1160.34
+Sikasso ,4,Kolondieba,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),732.06
+Sikasso ,5,Koutiala,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),2519.88
+Sikasso ,10,Niena,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),467.29
+Sikasso ,6,Yanfolila,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),576.85
+Sikasso ,7,Yorosso,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),910.51
+Sikasso ,8,Selingue,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),266.43
+Sikasso ,9,Kignan,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),321.21
+Ségou,1,Ségou,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1588.62
+Ségou,2,Barouéli,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),731.23
+Ségou,3,Bla,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1018.41
+Ségou,4,Macina,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),853.24
+Ségou,5,Niono,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1312.23
+Ségou,6,San,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1202.67
+Ségou,7,Tominian,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),789.33
+Ségou,8,Markala,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),893.91
+Mopti,1,Bandiagara,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1067.38
+Mopti,2,Bankass,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),945.37
+Mopti,3,Djenné,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1296.46
+Mopti,4,Douentza,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),908.02
+Mopti,5,Koro,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),2374.63
+Mopti,6,Mopti,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),983.55
+Mopti,7,Ténenkou,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1398.55
+Mopti,8,Youwarou,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),489.7
+Tombouctou,1,Tombouctou,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),697.2
+Tombouctou,2,Diré,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),622.5
+Tombouctou,3,Goundam,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),840.79
+Tombouctou,4,Gourma Rharous,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),624.16
+Tombouctou,5,Niafunké,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1030.86
+Gao,1,Gao,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),1460.8
+Gao,2,Ansongo,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),804.27
+Gao,3,Bourem,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),706.33
+Gao,4,Menaka,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),341.13
+Kidal,1,Abeibara,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),58.93
+Kidal,2,Kidal,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),189.24
+Kidal,3,Tessalit,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),93.79
+Kidal,4,Tin - Essako,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),46.48
+Bamako,1, COMMUNE I                       ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),666.49
+Bamako,2, COMMUNE II                      ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),317.89
+Bamako,3, COMMUNE III                     ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),256.47
+Bamako,4, COMMUNE IV                      ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),596.77
+Bamako,5, COMMUNE V                       ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),823.36
+Bamako,6, COMMUNE VI                      ,V17,Femme Enceinte et Allaintante Caseload 100% (CASELOAD pour 2015),933.75

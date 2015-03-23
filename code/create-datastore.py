@@ -2,7 +2,7 @@
 # datastores in CKAN / HDX.
 
 # path to download
-PATH = 'tool/data/temp.csv'
+PATH = 'data/temp.csv'
 
 # dependencies
 # import offset
@@ -158,7 +158,7 @@ def runEverything(p):
         resource = resources[i]  # getting the right resource
         resource_id = resource['resource_id']  # getting the resource_id
         print "Reading resource id: " + resource_id
-        downloadResource(p, resource_id)
+        # downloadResource(p, resource_id)
         updateDatastore(p, resource_id, resource)
     print '-------------------------------------'
     print 'Done.'
