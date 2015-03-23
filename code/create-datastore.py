@@ -2,7 +2,7 @@
 # datastores in CKAN / HDX.
 
 # path to download
-PATH = 'data/temp.csv'
+PATH = 'tool/data/temp.csv'
 
 # dependencies
 # import offset
@@ -45,32 +45,16 @@ def getResources(p):
 
     resources = [
         {
-            'resource_id': '9affe23f-3ce2-40d1-ae6a-1d7060b548a5',
+            'resource_id': 'c244004f-9d47-4191-8f6e-7c765a08998e',
             'path': p,
             'schema': {
                 "fields": [
-                        { "id" : "CNTRY_NAME", "type": "text" },
-                        { "id" : "CNTRY_CODE", "type": "text" },
-                        { "id" : "SOURCE", "type": "text" },
-                        { "id" : "SHAPE_LENG", "type": "text" },
-                        { "id" : "PROJECTION", "type": "text" },
-                        { "id" : "ADMIN1_PCO", "type": "text" },
-                        { "id" : "CODE_INSTA", "type": "text" },
-                        { "id" : "REGION_NAM", "type": "text" },
-                        { "id" : "PCODE1", "type": "text" },
-                        { "id" : "POP2013_F", "type": "float" },
-                        { "id" : "POP2013_M", "type": "float" },
-                        { "id" : "TOTAL", "type": "float" },
-                        { "id" : "Name", "type": "text" },
-                        { "id" : "PCode", "type": "text" },
-                        { "id" : "CNTRY_NA_1", "type": "text" },
-                        { "id" : "TYPE", "type": "text" },
-                        { "id" : "POINT_X", "type": "float" },
-                        { "id" : "POINT_Y", "type": "float" },
-                        { "id" : "PROJEECTIO", "type": "text" },
-                        { "id" : "month", "type": "timestamp" },
-                        { "id" : "value", "type": "float" }
-
+                    { "id": "region", "type": "text" },
+                    { "id": "numero_district", "type": "integer" },
+                    { "id": "district", "type": "text" },
+                    { "id": "variable_short_code", "type": "text" },
+                    { "id": "variable", "type": "text" },
+                    { "id": "value", "type": "float" }
                 ]
             },
         }
@@ -174,23 +158,22 @@ def runEverything(p):
         resource = resources[i]  # getting the right resource
         resource_id = resource['resource_id']  # getting the resource_id
         print "Reading resource id: " + resource_id
-        # downloadResource(p, resource_id)
+        downloadResource(p, resource_id)
         updateDatastore(p, resource_id, resource)
     print '-------------------------------------'
     print 'Done.'
     print '-------------------------------------'
 
 
-runEverything(PATH)
 
-# # Error handler for running the entire script
-# try:
-#     runEverything(PATH)
-#     # if everything ok
-#     print "ScraperWiki Status: Everything seems to be just fine."
-#     scraperwiki.status('ok')
+# Error handler for running the entire script
+try:
+    runEverything(PATH)
+    # if everything ok
+    print "ScraperWiki Status: Everything seems to be just fine."
+    scraperwiki.status('ok')
 
-# except Exception as e:
-#     print e
-#     scraperwiki.status('error', 'Creating datastore failed')
-#     os.system("mail -s 'Ebola Case data: creating datastore failed.' luiscape@gmail.com")
+except Exception as e:
+    print e
+    scraperwiki.status('error', 'Creating datastore failed')
+    os.system("mail -s 'SMART Survey: creating datastore failer.' luiscape@gmail.com")
