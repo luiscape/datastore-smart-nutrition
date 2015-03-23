@@ -2,7 +2,7 @@
 # datastores in CKAN / HDX.
 
 # path to download
-PATH = 'data/temp.csv'
+PATH = 'tool/data/temp.csv'
 
 # dependencies
 # import offset
