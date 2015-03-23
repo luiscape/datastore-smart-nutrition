@@ -20,7 +20,7 @@ import hashlib
 apikey = sys.argv[1]
 
 # configuring the remote CKAN instance
-ckan = ckanapi.RemoteCKAN('http://data.hdx.rwlabs.org', apikey=apikey)
+ckan = ckanapi.RemoteCKAN('https://data.hdx.rwlabs.org', apikey=apikey)
 
 # This is where the resources are declared. For now,
 # they are declared as a Python list.
@@ -28,20 +28,6 @@ ckan = ckanapi.RemoteCKAN('http://data.hdx.rwlabs.org', apikey=apikey)
 # should fetch those schemas using other
 # more refined methods.
 def getResources(p):
-    # resources = [
-    #     {
-    #         'resource_id': 'f48a3cf9-110e-4892-bedf-d4c1d725a7d1',
-    #         'path': p,
-    #         'schema': {
-    #             "fields": [
-    #                   { "id": "Indicator", "type": "text" },
-    #                   { "id": "Country", "type": "text" },
-    #                   { "id": "Date", "type": "timestamp"},
-    #                   { "id": "value", "type": "float" }
-    #             ]
-    #         },
-    #     }
-    # ]
 
     resources = [
         {
@@ -158,7 +144,7 @@ def runEverything(p):
         resource = resources[i]  # getting the right resource
         resource_id = resource['resource_id']  # getting the resource_id
         print "Reading resource id: " + resource_id
-        # downloadResource(p, resource_id)
+        downloadResource(p, resource_id)
         updateDatastore(p, resource_id, resource)
     print '-------------------------------------'
     print 'Done.'
